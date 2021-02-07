@@ -1,0 +1,6 @@
+#To check the currently available IP addresses on your desktop follow the steps:
+
+a. Open the Command Prompt window by typing in cmd in the search bar.
+b. Once the Command Prompt pops up type the command (arp -a).
+c. Hit Enter.
+d. The Interface, IP/ Logical Addresses, MAC/ Physical addresses and the type of respective IP addresses will be displayed in a tabular format.
