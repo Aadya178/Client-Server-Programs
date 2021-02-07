@@ -1,0 +1,3 @@
+Hey
+This is a test file for file transfer from Server to Client.
+Thanks for reading!
